@@ -1,2 +1,2 @@
-# website
-website
+# Jack Technology Website
+Jack Technology Website
